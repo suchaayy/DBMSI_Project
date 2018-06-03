@@ -5,7 +5,7 @@ Arizona State University. Fall 2018.
 
 # Minibase Java Database Mangement 
 
-(Overview)
+
 • _ Batch insert was performed on the given database.
 • _ Index structures – Btree and Bitmap was created.
 • _ Query program was implemented on target columns with access types – File Scan, Column Scan, Btree and Bitmap.
